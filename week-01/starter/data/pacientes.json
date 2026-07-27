@@ -1,0 +1,13 @@
+[
+  { "id": 1, "nombre": "Carlos Ramirez", "tipoTratamiento": "hemodialisis", "turno": "mañana", "costoSesion": 185000, "diasPorSemana": 3, "activo": true },
+  { "id": 2, "nombre": "Ana Torres", "tipoTratamiento": "dialisis_peritoneal", "turno": "tarde", "costoSesion": 210000, "diasPorSemana": 7, "activo": true },
+  { "id": 3, "nombre": "Luis Fernandez", "tipoTratamiento": "hemodiafiltracion", "turno": "noche", "costoSesion": 240000, "diasPorSemana": 3, "activo": false },
+  { "id": 4, "nombre": "María Gómez", "tipoTratamiento": "hemodialisis", "turno": "tarde", "costoSesion": 175000, "diasPorSemana": 3, "activo": true },
+  { "id": 5, "nombre": "Jorge Salazar", "tipoTratamiento": "hemodialisis", "turno": "mañana", "costoSesion": 190000, "diasPorSemana": 3, "activo": true },
+  { "id": 6, "nombre": "Paula Rincon", "tipoTratamiento": "dialisis_peritoneal", "turno": "mañana", "costoSesion": 205000, "diasPorSemana": 7, "activo": false },
+  { "id": 7, "nombre": "Andres Pineda", "tipoTratamiento": "hemodiafiltracion", "turno": "tarde", "costoSesion": 250000, "diasPorSemana": 3, "activo": true },
+  { "id": 8, "nombre": "Diana Cárdenas", "tipoTratamiento": "hemodialisis", "turno": "noche", "costoSesion": 180000, "diasPorSemana": 3, "activo": true },
+  { "id": 9, "nombre": "Felipe Duarte", "tipoTratamiento": "hemodialisis", "turno": "mañana", "costoSesion": 165000, "diasPorSemana": 3, "activo": false },
+  { "id": 10, "nombre": "Sandra Moreno", "tipoTratamiento": "dialisis_peritoneal", "turno": "tarde", "costoSesion": 215000, "diasPorSemana": 7, "activo": true },
+  { "id": 11, "nombre": "Ricardo León", "tipoTratamiento": "hemodiafiltracion", "turno": "mañana", "costoSesion": 260000, "diasPorSemana": 3, "activo": true }
+]
