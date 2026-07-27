@@ -72,7 +72,8 @@ El reporte se genera en `output/report.json`, con esta estructura:
   "pacientesFiltrados": []
 }
 ```
-
+## CAPTURAS DE PANTALLA
+![alt text](<Captura de pantalla EXPRESS.png>)
 ## Cumplimiento de requisitos
 
 | Requisito | Estado |
