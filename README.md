@@ -168,17 +168,18 @@ Todos los errores pasan por el `errorHandler` central, que distingue `ZodError` 
 
 ## Capturas de Pantalla
 # Post 
-![alt text](<POST crear paciente.png>)
+<img width="1920" height="1140" alt="POST crear paciente" src="https://github.com/user-attachments/assets/1b2a812b-7cd8-4a34-a87b-ce2032bf52d0" />
 # Get
-![alt text](GET_por_ID.png)
+<img width="1911" height="1140" alt="GET_por_ID" src="https://github.com/user-attachments/assets/a3e327ec-ea6a-463e-b931-08395f7331cb" />
 # Get con UUID inválido
-![alt text](<GET con UUID inválido.png>)
+<img width="1920" height="1140" alt="GET con UUID inválido" src="https://github.com/user-attachments/assets/d5b02cca-db9d-4396-af28-a33973b458f8" />
 # Get con UUID válido pero inexistente
-![alt text](<GET con UUID válido pero inexistente.png>)
+<img width="1920" height="1140" alt="GET con UUID válido pero inexistente" src="https://github.com/user-attachments/assets/2116fa9b-d417-4d8a-ba6d-adaf5763e450" />
 # Put
-![alt text](PUT_actualizar.png)
+<img width="1920" height="1140" alt="PUT_actualizar" src="https://github.com/user-attachments/assets/fd28eb2e-fa38-451a-ad1d-415476f94dbb" />
 # Delete
-![alt text](DELETE_.png) 
+<img width="1920" height="1140" alt="DELETE_" src="https://github.com/user-attachments/assets/63fac3f0-0c1a-461c-b914-ed307b126282" />
+
 
 ## Autor
 
