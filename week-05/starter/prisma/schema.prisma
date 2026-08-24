@@ -1,0 +1,27 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model TipoTratamiento {
+  id          String     @id @default(uuid()) @db.Uuid
+  nombre      String     @unique
+  descripcion String?
+  pacientes   Paciente[]
+}
+
+model Paciente {
+  id                 String          @id @default(uuid()) @db.Uuid
+  nombre             String
+  turno              String
+  costoSesion        Float
+  diasPorSemana      Int
+  activo             Boolean         @default(true)
+  createdAt          DateTime        @default(now())
+  tipoTratamiento    TipoTratamiento @relation(fields: [tipoTratamientoId], references: [id])
+  tipoTratamientoId  String          @db.Uuid
+}
