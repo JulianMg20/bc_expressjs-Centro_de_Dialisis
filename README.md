@@ -135,13 +135,16 @@ Todos pasan por el `errorHandler` central, con `logger.warn()` para los `AppErro
 
 
 ## Capturas de pantalla
-# get pacientes
+### get pacientes
 <img width="1920" height="1140" alt="GET200" src="https://github.com/user-attachments/assets/e577f634-108b-498a-a0c7-355bb94f3edb" />
-# post Id de tratamiento inválido
+
+### post Id de tratamiento inválido
 <img width="1920" height="1140" alt="ID de tratamiento inválido_400" src="https://github.com/user-attachments/assets/15b31b1b-760e-4991-940c-ad757ccb32e7" />
-# post paciente válido
+
+### post paciente válido
 <img width="1920" height="1140" alt="POST paciente válido_201" src="https://github.com/user-attachments/assets/fb760730-e393-4992-8469-b0af275cd336" />
-# post tipo de tratamiento duplicado
+
+### post tipo de tratamiento duplicado
 <img width="1920" height="1140" alt="POST tipo de tratamiento duplicado_409" src="https://github.com/user-attachments/assets/93f36cc2-da2a-42bf-bdeb-f7b3dca4331c" />
 
 
