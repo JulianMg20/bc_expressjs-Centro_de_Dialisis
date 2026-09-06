@@ -1,0 +1,28 @@
+import { loadEnvFile } from "node:process";
+loadEnvFile();
+
+import { app } from "./app.js";
+import { connectDB } from "./lib/mongoose.js";
+import { logger } from "./config/logger.js";
+
+
+const PORT = process.env.PORT || 3000;
+
+async function main() {
+  await connectDB();
+  const server = app.listen(PORT, () => {
+    logger.info(`🩺 Servidor del Centro de Diálisis corriendo en http://localhost:${PORT}`);
+  });
+
+  function apagarServidor(señal: string) {
+    logger.info(`${señal} recibido. Cerrando servidor...`);
+    server.close(() => process.exit(0));
+  }
+  process.on("SIGTERM", () => apagarServidor("SIGTERM"));
+  process.on("SIGINT", () => apagarServidor("SIGINT"));
+}
+
+main().catch((err) => {
+  logger.error("Error al iniciar el servidor: " + err);
+  process.exit(1);
+});
