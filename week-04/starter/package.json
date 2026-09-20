@@ -1,0 +1,23 @@
+{
+  "name": "centro-dialisis-api-v4",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "build": "tsc",
+    "start": "node dist/server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "morgan": "^1.11.0",
+    "winston": "^3.19.0",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/morgan": "^1.9.9",
+    "@types/node": "^20.19.43",
+    "tsx": "^4.23.1",
+    "typescript": "^5.9.3"
+  }
+}
