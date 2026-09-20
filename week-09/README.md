@@ -57,14 +57,13 @@ All files     |   93.71 |    70.27 |   97.61 |   96.17
 ## Caspturas de pantalla
 
 ### Tests pasando
-<img width="1920" height="1140" alt="Tests pasando" src="https://github.com/user-attachments/assets/d788cb80-10fa-4930-8abe-687bd73fb6c4" />
+![alt text](<Tests pasando.png>)
 
 ### Tabla de cobertura
-<img width="1920" height="1140" alt="Tabla de cobertura" src="https://github.com/user-attachments/assets/cb179da6-cfed-4344-9adf-eb6d21812000" />
+![alt text](<Tabla de cobertura.png>)
 
 ### Reporte HTML
-<img width="1920" height="1140" alt="Reporte HTML" src="https://github.com/user-attachments/assets/85dbefcc-c28f-4ef0-bbbb-4d0aa2630743" />
-
+![alt text](<Reporte HTML.png>) 
 
 ## Autor
 
