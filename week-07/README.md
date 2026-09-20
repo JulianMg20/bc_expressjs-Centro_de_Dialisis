@@ -130,28 +130,27 @@ Node.js hace *hoisting* de todos los `import` estáticos al inicio del módulo, 
 
 ## Captures de pantalla
 ### get 200
-<img width="1920" height="1140" alt="GET200" src="https://github.com/user-attachments/assets/b77d5ee2-0ecf-41a7-8310-50339d4105bb" />
+![alt text](GET200.png)
 ### invalid id 400
-<img width="1920" height="1140" alt="ID de tratamiento inválido_400" src="https://github.com/user-attachments/assets/37593572-10a6-4310-880f-b36208350158" />
+![alt text](<ID de tratamiento inválido_400.png>)
 ### Paciente válido 201
-<img width="1920" height="1140" alt="POST paciente válido_201" src="https://github.com/user-attachments/assets/49afc20b-635e-425c-86f4-d0eb6332db2f" />
+![alt text](<POST paciente válido_201.png>)
 ### Paciente duplicado 409
-<img width="1920" height="1140" alt="POST tipo de tratamiento duplicado_409" src="https://github.com/user-attachments/assets/7840f1fa-e522-4a8c-a56a-b56371b6630e" />
+![alt text](<POST tipo de tratamiento duplicado_409.png>)
 ### Registro 201
-<img width="1920" height="1140" alt="Register_201" src="https://github.com/user-attachments/assets/ee40962a-dd7e-4928-846f-d7497b7f31b6" />
+![alt text](Register_201.png)
 ### Login 200
-<img width="1920" height="1140" alt="Login_200" src="https://github.com/user-attachments/assets/c9d9ae6c-b37e-4b7b-b35a-2bd686053cc0" />
+![alt text](Login_200.png)
 ### get me 200
-<img width="1920" height="1140" alt="GET_me" src="https://github.com/user-attachments/assets/5ec61cf2-39d6-4315-b988-b0e13d9c7681" />
+![alt text](GET_me.png)
 ### crear paciente sin login 401
-<img width="1920" height="1140" alt="paciente SIN login_401" src="https://github.com/user-attachments/assets/73877add-f1a1-46e8-a8e5-e6789ae10f42" />
+![alt text](<paciente SIN login_401.png>)
 ### crear paciente con login 201
-<img width="1920" height="1140" alt="paciente con login_201" src="https://github.com/user-attachments/assets/4a8377c9-92d0-41a2-9a92-94f4c124e656" />
+![alt text](<paciente con login_201.png>)
 ### logout 200
-<img width="1920" height="1140" alt="Logout" src="https://github.com/user-attachments/assets/774bc7c3-ae8e-432d-a0b6-9e770348f637" />
+![alt text](Logout.png)
 ### refresh con cookie válido 200
-<img width="1920" height="1140" alt="Refresh después de logout" src="https://github.com/user-attachments/assets/ba486fdc-32dd-454f-a36f-7608f876d1b9" />
-
+![alt text](<Refresh después de logout.png>)  
 
 ## ✅ Cumplimiento de requisitos
 
