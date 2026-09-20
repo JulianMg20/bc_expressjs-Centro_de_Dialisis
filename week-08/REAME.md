@@ -121,23 +121,22 @@ La librería `express-mongo-sanitize@2.2.0` intenta reasignar `req.query` direct
 ## Captura de pantalla
 
 ### Headers de Helmet en toda respuesta
-<img width="1920" height="1140" alt="Headers de Helmet" src="https://github.com/user-attachments/assets/9c035b57-5f53-4846-8414-528c1fcb422a" />
+![alt text](<Headers de Helmet.png>)
 
 ### Rate limit de auth
-<img width="1920" height="1140" alt="Rate limit _429" src="https://github.com/user-attachments/assets/beb0d069-29ed-4da6-952b-2e24a6973300" />
+![alt text](<Rate limit _429.png>)
 
 ### Register
-<img width="1920" height="1140" alt="Register" src="https://github.com/user-attachments/assets/abdfc2af-da68-4e09-bf76-a446f2f438d0" />
+![alt text](Register.png)
 
 ### Login (cookies `accessToken`/`refreshToken`)
-<img width="1907" height="1140" alt="Login con cookies" src="https://github.com/user-attachments/assets/ed6eb2cd-7d47-4f78-aa98-7129217f64de" />
+![alt text](<Login con cookies.png>)
 
 ### Crear deleted paciente
-<img width="1920" height="1140" alt="DELETE como recepcionista _ 403" src="https://github.com/user-attachments/assets/a996d96a-e9f7-498d-ac69-9064bf3fac3a" />
+![alt text](<DELETE como recepcionista _ 403.png>)
 
 ### Crear deleted paciente como admin
-<img width="1920" height="1140" alt="DELETE como admin _ 204" src="https://github.com/user-attachments/assets/7f07677d-954d-4e4b-bc06-dacf056d5955" />
-
+![alt text](<DELETE como admin _ 204.png>)  
 
 ##   Flujo de prueba verificado
 
